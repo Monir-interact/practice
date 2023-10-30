@@ -1,0 +1,12 @@
+.blog{
+    margin: 10px 10px 5px 5px;
+    border: 10px solid goldenrod;
+    padding: 10px;
+}
+
+.headline-one{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-weight: 700;
+    text-align: center;
+}
